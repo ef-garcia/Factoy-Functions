@@ -1,0 +1,1 @@
+const { buildMakePerson } = require('./FactoryFuction/factory.js');
